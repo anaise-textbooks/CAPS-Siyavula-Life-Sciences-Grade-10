@@ -1,0 +1,570 @@
+{
+  "$schema": "https://anaise.org/schemas/book.v1.json",
+  "id": "book-caps-siyavula-life-sci-grade-10",
+  "title": "Life Sciences Grade 10 (CAPS)",
+  "subtitle": "Complete CAPS-aligned digital textbook for Grade 10 Life Sciences by Siyavula Education.",
+  "version": "1.0.0",
+  "coverImage": null,
+  "thumbnail": null,
+  "authors": [
+    {
+      "name": "Siyavula Education",
+      "affiliation": "Siyavula Open Textbooks Project"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "toc": [
+    {
+      "id": "ch01",
+      "title": "Introduction to Life Sciences",
+      "sections": [
+        {
+          "id": "sec-01-01-00-introduction-to-life-sciences-01",
+          "title": "Life Sciences Orientation",
+          "path": "chapters/01-introduction-to-life-sciences/00-introduction-to-life-sciences-01.mdx",
+          "estimatedMinutes": 7
+        },
+        {
+          "id": "sec-01-02-00-introduction-to-life-sciences-02",
+          "title": "The Scientific Method",
+          "path": "chapters/01-introduction-to-life-sciences/00-introduction-to-life-sciences-02.mdx",
+          "estimatedMinutes": 11
+        },
+        {
+          "id": "sec-01-03-00-introduction-to-life-sciences-03",
+          "title": "Important principles and relationships in Life Sciences",
+          "path": "chapters/01-introduction-to-life-sciences/00-introduction-to-life-sciences-03.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-01-04-00-introduction-to-life-sciences-04",
+          "title": "Presenting data",
+          "path": "chapters/01-introduction-to-life-sciences/00-introduction-to-life-sciences-04.mdx",
+          "estimatedMinutes": 11
+        },
+        {
+          "id": "sec-01-05-00-introduction-to-life-sciences-05",
+          "title": "Mathematical skills in Life Sciences",
+          "path": "chapters/01-introduction-to-life-sciences/00-introduction-to-life-sciences-05.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-01-06-00-introduction-to-life-sciences-06",
+          "title": "Lab safety procedures",
+          "path": "chapters/01-introduction-to-life-sciences/00-introduction-to-life-sciences-06.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "title": "Chapter 1: The chemistry of life",
+      "sections": [
+        {
+          "id": "sec-02-01-01-the-chemistry-of-life-01",
+          "title": "1.1 Overview",
+          "path": "chapters/02-the-chemistry-of-life/01-the-chemistry-of-life-01.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-02-02-01-the-chemistry-of-life-02",
+          "title": "1.2 Molecules for life",
+          "path": "chapters/02-the-chemistry-of-life/01-the-chemistry-of-life-02.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-02-03-01-the-chemistry-of-life-03",
+          "title": "1.3 Inorganic compounds",
+          "path": "chapters/02-the-chemistry-of-life/01-the-chemistry-of-life-03.mdx",
+          "estimatedMinutes": 11
+        },
+        {
+          "id": "sec-02-04-01-the-chemistry-of-life-04",
+          "title": "1.4 Organic compounds",
+          "path": "chapters/02-the-chemistry-of-life/01-the-chemistry-of-life-04.mdx",
+          "estimatedMinutes": 42
+        },
+        {
+          "id": "sec-02-05-01-the-chemistry-of-life-05",
+          "title": "1.5 Vitamins",
+          "path": "chapters/02-the-chemistry-of-life/01-the-chemistry-of-life-05.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-02-06-01-the-chemistry-of-life-06",
+          "title": "1.6 Recommended Dietary Allowance",
+          "path": "chapters/02-the-chemistry-of-life/01-the-chemistry-of-life-06.mdx",
+          "estimatedMinutes": 9
+        },
+        {
+          "id": "sec-02-07-01-the-chemistry-of-life-07",
+          "title": "1.7 Summary",
+          "path": "chapters/02-the-chemistry-of-life/01-the-chemistry-of-life-07.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-02-08-01-the-chemistry-of-life-08",
+          "title": "End of chapter exercises",
+          "path": "chapters/02-the-chemistry-of-life/01-the-chemistry-of-life-08.mdx",
+          "estimatedMinutes": 9
+        }
+      ]
+    },
+    {
+      "id": "ch03",
+      "title": "Chapter 2: Cells: the basic units of life",
+      "sections": [
+        {
+          "id": "sec-03-01-02-cells-the-basic-units-of-life-01",
+          "title": "2.1 Overview",
+          "path": "chapters/03-cells-the-basic-units-of-life/02-cells-the-basic-units-of-life-01.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-03-02-02-cells-the-basic-units-of-life-02",
+          "title": "2.2 Molecular make up of cells",
+          "path": "chapters/03-cells-the-basic-units-of-life/02-cells-the-basic-units-of-life-02.mdx",
+          "estimatedMinutes": 14
+        },
+        {
+          "id": "sec-03-03-02-cells-the-basic-units-of-life-03",
+          "title": "2.3 Cell structure and function",
+          "path": "chapters/03-cells-the-basic-units-of-life/02-cells-the-basic-units-of-life-03.mdx",
+          "estimatedMinutes": 19
+        },
+        {
+          "id": "sec-03-04-02-cells-the-basic-units-of-life-04",
+          "title": "2.4 Cell organelles",
+          "path": "chapters/03-cells-the-basic-units-of-life/02-cells-the-basic-units-of-life-04.mdx",
+          "estimatedMinutes": 24
+        },
+        {
+          "id": "sec-03-05-02-cells-the-basic-units-of-life-05",
+          "title": "2.5 Summary",
+          "path": "chapters/03-cells-the-basic-units-of-life/02-cells-the-basic-units-of-life-05.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-03-06-02-cells-the-basic-units-of-life-06",
+          "title": "End of chapter exercises",
+          "path": "chapters/03-cells-the-basic-units-of-life/02-cells-the-basic-units-of-life-06.mdx",
+          "estimatedMinutes": 6
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "title": "Chapter 3: Cell division",
+      "sections": [
+        {
+          "id": "sec-04-01-03-cell-division-01",
+          "title": "3.1 Overview",
+          "path": "chapters/04-cell-division/03-cell-division-01.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-04-02-03-cell-division-02",
+          "title": "3.2 The cell cycle",
+          "path": "chapters/04-cell-division/03-cell-division-02.mdx",
+          "estimatedMinutes": 7
+        },
+        {
+          "id": "sec-04-03-03-cell-division-03",
+          "title": "3.3 The role of mitosis",
+          "path": "chapters/04-cell-division/03-cell-division-03.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-04-04-03-cell-division-04",
+          "title": "3.4 Cancer",
+          "path": "chapters/04-cell-division/03-cell-division-04.mdx",
+          "estimatedMinutes": 22
+        },
+        {
+          "id": "sec-04-05-03-cell-division-05",
+          "title": "3.5 Summary",
+          "path": "chapters/04-cell-division/03-cell-division-05.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-04-06-03-cell-division-06",
+          "title": "3.6 End of chapter exercises",
+          "path": "chapters/04-cell-division/03-cell-division-06.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch05",
+      "title": "Chapter 4: Plant and animal tissues",
+      "sections": [
+        {
+          "id": "sec-05-01-04-plant-and-animal-tissues-01",
+          "title": "4.1 Overview",
+          "path": "chapters/05-plant-and-animal-tissues/04-plant-and-animal-tissues-01.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-05-02-04-plant-and-animal-tissues-02",
+          "title": "4.2 Tissues",
+          "path": "chapters/05-plant-and-animal-tissues/04-plant-and-animal-tissues-02.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-05-03-04-plant-and-animal-tissues-03",
+          "title": "4.3 Plant tissues",
+          "path": "chapters/05-plant-and-animal-tissues/04-plant-and-animal-tissues-03.mdx",
+          "estimatedMinutes": 30
+        },
+        {
+          "id": "sec-05-04-04-plant-and-animal-tissues-04",
+          "title": "4.4 Animal tissues",
+          "path": "chapters/05-plant-and-animal-tissues/04-plant-and-animal-tissues-04.mdx",
+          "estimatedMinutes": 29
+        },
+        {
+          "id": "sec-05-05-04-plant-and-animal-tissues-05",
+          "title": "4.5 Applications of indigenous knowledge and biotechnology",
+          "path": "chapters/05-plant-and-animal-tissues/04-plant-and-animal-tissues-05.mdx",
+          "estimatedMinutes": 17
+        },
+        {
+          "id": "sec-05-06-04-plant-and-animal-tissues-06",
+          "title": "4.6 The leaf as an organ",
+          "path": "chapters/05-plant-and-animal-tissues/04-plant-and-animal-tissues-06.mdx",
+          "estimatedMinutes": 8
+        },
+        {
+          "id": "sec-05-07-04-plant-and-animal-tissues-07",
+          "title": "4.7 Summary",
+          "path": "chapters/05-plant-and-animal-tissues/04-plant-and-animal-tissues-07.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-05-08-04-plant-and-animal-tissues-08",
+          "title": "End of chapter exercises",
+          "path": "chapters/05-plant-and-animal-tissues/04-plant-and-animal-tissues-08.mdx",
+          "estimatedMinutes": 6
+        }
+      ]
+    },
+    {
+      "id": "ch06",
+      "title": "Chapter 5: Support and transport systems in plants",
+      "sections": [
+        {
+          "id": "sec-06-01-05-support-and-transport-systems-in-plants-01",
+          "title": "5.1 Overview",
+          "path": "chapters/06-support-and-transport-systems-in-plants/05-support-and-transport-systems-in-plants-01.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-06-02-05-support-and-transport-systems-in-plants-02",
+          "title": "5.2 Anatomy of dicotyledonous plants",
+          "path": "chapters/06-support-and-transport-systems-in-plants/05-support-and-transport-systems-in-plants-02.mdx",
+          "estimatedMinutes": 24
+        },
+        {
+          "id": "sec-06-03-05-support-and-transport-systems-in-plants-03",
+          "title": "5.3 Transpiration",
+          "path": "chapters/06-support-and-transport-systems-in-plants/05-support-and-transport-systems-in-plants-03.mdx",
+          "estimatedMinutes": 25
+        },
+        {
+          "id": "sec-06-04-05-support-and-transport-systems-in-plants-04",
+          "title": "5.4 Wilting and guttation",
+          "path": "chapters/06-support-and-transport-systems-in-plants/05-support-and-transport-systems-in-plants-04.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-06-05-05-support-and-transport-systems-in-plants-05",
+          "title": "5.5 Uptake of water and minerals in the roots",
+          "path": "chapters/06-support-and-transport-systems-in-plants/05-support-and-transport-systems-in-plants-05.mdx",
+          "estimatedMinutes": 13
+        },
+        {
+          "id": "sec-06-06-05-support-and-transport-systems-in-plants-06",
+          "title": "5.6 Summary",
+          "path": "chapters/06-support-and-transport-systems-in-plants/05-support-and-transport-systems-in-plants-06.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-06-07-05-support-and-transport-systems-in-plants-07",
+          "title": "End of chapter exercises",
+          "path": "chapters/06-support-and-transport-systems-in-plants/05-support-and-transport-systems-in-plants-07.mdx",
+          "estimatedMinutes": 12
+        }
+      ]
+    },
+    {
+      "id": "ch07",
+      "title": "Chapter 6: Support systems in animals",
+      "sections": [
+        {
+          "id": "sec-07-01-06-support-systems-in-animals-01",
+          "title": "6.1 Overview",
+          "path": "chapters/07-support-systems-in-animals/06-support-systems-in-animals-01.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-07-02-06-support-systems-in-animals-02",
+          "title": "6.2 Skeletons",
+          "path": "chapters/07-support-systems-in-animals/06-support-systems-in-animals-02.mdx",
+          "estimatedMinutes": 13
+        },
+        {
+          "id": "sec-07-03-06-support-systems-in-animals-03",
+          "title": "6.3 Human skeleton",
+          "path": "chapters/07-support-systems-in-animals/06-support-systems-in-animals-03.mdx",
+          "estimatedMinutes": 19
+        },
+        {
+          "id": "sec-07-04-06-support-systems-in-animals-04",
+          "title": "6.4 Musculoskeletal tissues",
+          "path": "chapters/07-support-systems-in-animals/06-support-systems-in-animals-04.mdx",
+          "estimatedMinutes": 28
+        },
+        {
+          "id": "sec-07-05-06-support-systems-in-animals-05",
+          "title": "6.5 Human locomotion",
+          "path": "chapters/07-support-systems-in-animals/06-support-systems-in-animals-05.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-07-06-06-support-systems-in-animals-06",
+          "title": "6.6 Muscle structure and function",
+          "path": "chapters/07-support-systems-in-animals/06-support-systems-in-animals-06.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-07-07-06-support-systems-in-animals-07",
+          "title": "6.7 Diseases",
+          "path": "chapters/07-support-systems-in-animals/06-support-systems-in-animals-07.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-07-08-06-support-systems-in-animals-08",
+          "title": "6.8 Summary",
+          "path": "chapters/07-support-systems-in-animals/06-support-systems-in-animals-08.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-07-09-06-support-systems-in-animals-09",
+          "title": "End of chapter exercises",
+          "path": "chapters/07-support-systems-in-animals/06-support-systems-in-animals-09.mdx",
+          "estimatedMinutes": 11
+        }
+      ]
+    },
+    {
+      "id": "ch08",
+      "title": "Chapter 7: Transport systems in animals",
+      "sections": [
+        {
+          "id": "sec-08-01-07-transport-systems-in-animals-01",
+          "title": "7.1 Overview",
+          "path": "chapters/08-transport-systems-in-animals/07-transport-systems-in-animals-01.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-08-02-07-transport-systems-in-animals-02",
+          "title": "7.2 Circulatory systems in animals",
+          "path": "chapters/08-transport-systems-in-animals/07-transport-systems-in-animals-02.mdx",
+          "estimatedMinutes": 34
+        },
+        {
+          "id": "sec-08-03-07-transport-systems-in-animals-03",
+          "title": "7.3 Lymphatic circulatory system",
+          "path": "chapters/08-transport-systems-in-animals/07-transport-systems-in-animals-03.mdx",
+          "estimatedMinutes": 6
+        },
+        {
+          "id": "sec-08-04-07-transport-systems-in-animals-04",
+          "title": "7.4 Cardiovascular diseases",
+          "path": "chapters/08-transport-systems-in-animals/07-transport-systems-in-animals-04.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-08-05-07-transport-systems-in-animals-05",
+          "title": "7.5 Treatment of heart diseases",
+          "path": "chapters/08-transport-systems-in-animals/07-transport-systems-in-animals-05.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-08-06-07-transport-systems-in-animals-06",
+          "title": "7.6 Summary",
+          "path": "chapters/08-transport-systems-in-animals/07-transport-systems-in-animals-06.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-08-07-07-transport-systems-in-animals-07",
+          "title": "End of chapter exercises",
+          "path": "chapters/08-transport-systems-in-animals/07-transport-systems-in-animals-07.mdx",
+          "estimatedMinutes": 16
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "title": "Chapter 8: Biospheres to ecosystems",
+      "sections": [
+        {
+          "id": "sec-09-01-08-biosphere-to-ecosystems-01",
+          "title": "8.1 Overview",
+          "path": "chapters/09-biosphere-to-ecosystems/08-biosphere-to-ecosystems-01.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-09-02-08-biosphere-to-ecosystems-02",
+          "title": "8.2 Biosphere",
+          "path": "chapters/09-biosphere-to-ecosystems/08-biosphere-to-ecosystems-02.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-09-03-08-biosphere-to-ecosystems-03",
+          "title": "8.3 Biomes",
+          "path": "chapters/09-biosphere-to-ecosystems/08-biosphere-to-ecosystems-03.mdx",
+          "estimatedMinutes": 33
+        },
+        {
+          "id": "sec-09-04-08-biosphere-to-ecosystems-04",
+          "title": "8.4 Environment",
+          "path": "chapters/09-biosphere-to-ecosystems/08-biosphere-to-ecosystems-04.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-09-05-08-biosphere-to-ecosystems-05",
+          "title": "8.5 Ecosystems",
+          "path": "chapters/09-biosphere-to-ecosystems/08-biosphere-to-ecosystems-05.mdx",
+          "estimatedMinutes": 32
+        },
+        {
+          "id": "sec-09-06-08-biosphere-to-ecosystems-06",
+          "title": "8.6 Energy flow",
+          "path": "chapters/09-biosphere-to-ecosystems/08-biosphere-to-ecosystems-06.mdx",
+          "estimatedMinutes": 10
+        },
+        {
+          "id": "sec-09-07-08-biosphere-to-ecosystems-07",
+          "title": "8.7 Nutrient cycles",
+          "path": "chapters/09-biosphere-to-ecosystems/08-biosphere-to-ecosystems-07.mdx",
+          "estimatedMinutes": 8
+        },
+        {
+          "id": "sec-09-08-08-biosphere-to-ecosystems-08",
+          "title": "8.8 Ecotourism",
+          "path": "chapters/09-biosphere-to-ecosystems/08-biosphere-to-ecosystems-08.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-09-09-08-biosphere-to-ecosystems-09",
+          "title": "8.9 Summary",
+          "path": "chapters/09-biosphere-to-ecosystems/08-biosphere-to-ecosystems-09.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-09-10-08-biosphere-to-ecosystems-10",
+          "title": "End of chapter exercises",
+          "path": "chapters/09-biosphere-to-ecosystems/08-biosphere-to-ecosystems-10.mdx",
+          "estimatedMinutes": 14
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "title": "Chapter 9: Biodiversity and classification",
+      "sections": [
+        {
+          "id": "sec-10-01-09-biodiversity-and-classification-01",
+          "title": "9.1 Overview",
+          "path": "chapters/10-biodiversity-and-classification/09-biodiversity-and-classification-01.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-10-02-09-biodiversity-and-classification-02",
+          "title": "9.2 Biodiversity",
+          "path": "chapters/10-biodiversity-and-classification/09-biodiversity-and-classification-02.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-10-03-09-biodiversity-and-classification-03",
+          "title": "9.3 Classification schemes",
+          "path": "chapters/10-biodiversity-and-classification/09-biodiversity-and-classification-03.mdx",
+          "estimatedMinutes": 11
+        },
+        {
+          "id": "sec-10-04-09-biodiversity-and-classification-04",
+          "title": "9.4 Five kingdom system",
+          "path": "chapters/10-biodiversity-and-classification/09-biodiversity-and-classification-04.mdx",
+          "estimatedMinutes": 11
+        },
+        {
+          "id": "sec-10-05-09-biodiversity-and-classification-05",
+          "title": "9.5 Summary",
+          "path": "chapters/10-biodiversity-and-classification/09-biodiversity-and-classification-05.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-10-06-09-biodiversity-and-classification-06",
+          "title": "End of chapter exercises",
+          "path": "chapters/10-biodiversity-and-classification/09-biodiversity-and-classification-06.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch11",
+      "title": "Chapter 10: History of Life on Earth",
+      "sections": [
+        {
+          "id": "sec-11-01-10-history-of-life-on-earth-01",
+          "title": "10.1 Overview",
+          "path": "chapters/11-history-of-life-on-earth/10-history-of-life-on-earth-01.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-11-02-10-history-of-life-on-earth-02",
+          "title": "10.2 Representations of life's history",
+          "path": "chapters/11-history-of-life-on-earth/10-history-of-life-on-earth-02.mdx",
+          "estimatedMinutes": 20
+        },
+        {
+          "id": "sec-11-03-10-history-of-life-on-earth-03",
+          "title": "10.3 Life's History",
+          "path": "chapters/11-history-of-life-on-earth/10-history-of-life-on-earth-03.mdx",
+          "estimatedMinutes": 19
+        },
+        {
+          "id": "sec-11-04-10-history-of-life-on-earth-04",
+          "title": "10.4 Mass extinctions",
+          "path": "chapters/11-history-of-life-on-earth/10-history-of-life-on-earth-04.mdx",
+          "estimatedMinutes": 12
+        },
+        {
+          "id": "sec-11-05-10-history-of-life-on-earth-05",
+          "title": "10.5 Impact of humans on biodiversity and the environment",
+          "path": "chapters/11-history-of-life-on-earth/10-history-of-life-on-earth-05.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-11-06-10-history-of-life-on-earth-06",
+          "title": "10.6 Fossil tourism",
+          "path": "chapters/11-history-of-life-on-earth/10-history-of-life-on-earth-06.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-11-07-10-history-of-life-on-earth-07",
+          "title": "10.7 Summary",
+          "path": "chapters/11-history-of-life-on-earth/10-history-of-life-on-earth-07.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-11-08-10-history-of-life-on-earth-08",
+          "title": "End of chapter exercises",
+          "path": "chapters/11-history-of-life-on-earth/10-history-of-life-on-earth-08.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    }
+  ]
+}
